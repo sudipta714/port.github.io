@@ -1,0 +1,18 @@
+img{
+	width:25%;
+	float:left;
+	margin:2.66%;
+}
+h1{
+	text-align: center;
+	text-decoration:underline;
+	font-family: 'Grenze Gotisch', cursive;
+
+}
+a:hover{
+	background: purple;
+
+}
+a:visited{
+	color:green;
+}
